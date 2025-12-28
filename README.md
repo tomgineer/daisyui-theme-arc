@@ -74,15 +74,6 @@ Common tweaks:
 
 The Arc look relies on subtle contrast and low saturation. Small changes usually work better than large shifts.
 
-## Notes on text colors
-
-In daisyUI, `text-secondary` uses `--color-secondary` rather than `--color-secondary-content`.
-
-Because this theme uses `secondary` as a surface color (similar to Arc), you may prefer:
-
-- `text-base-content` for readable secondary text, or
-- opacity-based utilities for muted text (for example, 70 percent or 50 percent opacity).
-
 ## License
 
 MIT License. See the `LICENSE` file for details.
