@@ -7,7 +7,7 @@ No JavaScript configuration is required.
 
 ## Preview
 
-![Arc Dark theme mockup](./arc-dark-mockup.png)
+![Arc Dark theme mockup](./arc-dark-mockup.webp)
 
 ## Included themes
 
