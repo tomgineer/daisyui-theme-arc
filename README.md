@@ -2,6 +2,8 @@
 
 A faithful Arc Dark theme for daisyUI, inspired by the classic GTK Arc theme.
 
+Designed for long sessions, low eye strain, and calm interfaces.
+
 This repository provides a CSS-only daisyUI theme using OKLCH color tokens.
 No JavaScript configuration is required.
 
